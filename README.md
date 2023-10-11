@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![An image of @saatvikbhola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saatvikbhola)](https://holopin.io/@saatvikbhola)<!--
+[![An image of @saatvikbhola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saatvikbhola)](https://holopin.io/@saatvikbhola)
 **saatvikbhola/saatvikbhola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
