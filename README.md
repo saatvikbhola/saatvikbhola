@@ -9,6 +9,8 @@
 
 [![An image of @saatvikbhola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saatvikbhola)](https://holopin.io/@saatvikbhola)
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -21,5 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="android studio" **alt="android" width="40" height="40"/>
 </div>
 
+----
 
+### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saatvikbhola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
