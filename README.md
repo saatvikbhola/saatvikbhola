@@ -1,31 +1,41 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/saatvik-bhola-9ab00a299/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+# Saatvik Bhola
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+Linux and DevOps. 4th year CSE.
 
-[![An image of @saatvikbhola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saatvikbhola)](https://holopin.io/@saatvikbhola)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saatvik-bhola-9ab00a299/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="py" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="android studio" **alt="android" width="40" height="40"/>
-</div>
+### what i work with
 
+**infra & devops**
+`Docker` `Jenkins` `Prometheus` `Docker Compose` `Shell Scripting` `Git`
 
+**languages**
+`Python` `Bash` `Java` `JavaScript` `SQL`
+
+**ml / ai**
+`MobileNetV2` `BiLSTM` `U-Net` `Gemini API` `CrewAI` `OpenCV` `Gradio` `Streamlit`
+
+**os**
+`Linux` — Arch, Hyprland, SDDM theming
+
+---
+
+### some things i've built
+
+| project | what it is |
+|---|---|
+| [flask-monitoring-cicd](https://github.com/saatvikbhola/flask-monitoring-cicd) | Flask app with Docker, Jenkins CI/CD pipeline, Prometheus monitoring, Grafana alerting |
+| [cinematch](https://github.com/saatvikbhola/cinematch) | AI movie discovery engine — vector search with Endee DB + Gemini 2.5 Flash, RAG-based Q&A |
+| [computer-vision](https://github.com/saatvikbhola/computer-vision) | Violence detection system using MobileNetV2 + Bidirectional LSTM |
+| [old-image](https://github.com/saatvikbhola/old-image) | Old photograph restoration — U-Net scratch detection + OpenCV inpainting, deployed on HuggingFace |
+| [bad-apple-in-minesweeper](https://github.com/saatvikbhola/bad-apple-in-minesweeper) | Bad Apple rendered as Minesweeper board animation |
+| [sddm-themes](https://github.com/saatvikbhola/sddm-themes) | Custom login screen themes for Linux |
+| [youtube-playlist-downloader](https://github.com/saatvikbhola/youtube-playlist-downloader) | Web-based playlist downloader — Selenium + yt-dlp |
+
+---
+
+### holopin
+
+[![@saatvikbhola's Holopin board](https://holopin.me/saatvikbhola)](https://holopin.io/@saatvikbhola)
