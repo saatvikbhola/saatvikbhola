@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=240&section=header&text=Saatvik%20Bhola&fontSize=34&animation=fadeIn&fontAlignY=36&desc=Linux%20Systems%20%7C%20DevOps%20%7C%20Automation&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=200&section=header&text=Saatvik%20Bhola&fontSize=34&animation=fadeIn&fontAlignY=36&desc=Linux%20Systems%20%7C%20DevOps%20%7C%20Automation&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
