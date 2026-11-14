@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF66&center=true&vCenter=true&width=420&lines=Linux+%26+DevOps+Engineer;CI%2FCD+Pipelines+%E2%80%A2+Docker+%E2%80%A2+Prometheus;Arch+Linux+%2B+Hyprland+Daily+Driver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF66&center=true&vCenter=true&width=420&lines=Linux+%26+DevOps+Engineer;CI%2FCD+Pipelines+%E2%80%A2+Docker+%E2%80%A2+Prometheus" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,6 @@
 
 **Saatvik Bhola** — Linux & DevOps Engineer.  
 Building CI/CD pipelines, containerized environments, and Prometheus/Grafana observability.  
-Arch Linux + Hyprland daily driver.
 
 </div>
 
